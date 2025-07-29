@@ -20,6 +20,12 @@ Income Statement Summary: <br/>
 <br />
 <br />
 
+<p align="center">
+Liquidity Analysis & Capital Efficiency: <br/>
+<img src="https://i.imgur.com/IZyclfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>📊 Results</h2>
 
 - <b>Cleaned dataset ready for analysis (EDA, sales trends, etc.)</b> 

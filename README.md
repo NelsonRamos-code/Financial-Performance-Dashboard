@@ -14,12 +14,11 @@ Interactive dashboards and automated reports were developed in Power BI, using c
 
 <h2>Report walk-through:</h2>
 
-/*
-
-
- Look at: SQLQuery2 - cafe sales.sql
-
-*/
+<p align="center">
+Income Statement Summary: <br/>
+<img src="https://i.imgur.com/ndoX7Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>📊 Results</h2>
 

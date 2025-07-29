@@ -12,22 +12,22 @@ Interactive dashboards and automated reports were developed in Power BI, using c
 - <b>Power BI</b>
 - <b>Excel / Google Sheets </b> 
 
-<h2>Report walk-through:</h2>
+<h2>Report walk-through</h2>
 
 <p align="center">
-Income Statement Summary: <br/>
+Income Statement Summary <br/>
 <img src="https://i.imgur.com/ndoX7Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
-Liquidity Analysis & Capital Efficiency: <br/>
+Liquidity Analysis & Capital Efficiency<br/>
 <img src="https://i.imgur.com/IZyclfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
-Current Assets & Liabilities: <br/>
+Current Assets & Liabilities <br/>
 <img src="https://i.imgur.com/PuFcehz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

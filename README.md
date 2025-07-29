@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project focuses on performing a comprehensive financial diagnostic for a service-based naval company by analyzing data from the last three accounting periods (2021–2022, 2022–2023, and 2023–2024). The goal was to audit financial records and evaluate key liquidity indicators, such as the current ratio and quick ratio—to assess the company’s short-term solvency and financial health.
+This project focused on performing a comprehensive financial diagnostic for a service-based naval company by analyzing data from the last three accounting periods (2021–2022, 2022–2023, and 2023–2024). The goal was to audit financial records and evaluate key liquidity indicators, such as the current ratio and quick ratio—to assess the company’s short-term solvency and financial health.
 Interactive dashboards and automated reports were developed in Power BI, using centralized financial data extracted from Google Sheets and Excel. These dashboards provide real-time insights into the company’s liquidity position, helping stakeholders understand performance trends and identify early warning signs of financial stress.
 <br />
 

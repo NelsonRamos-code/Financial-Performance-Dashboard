@@ -3,19 +3,16 @@
 
 
 <h2>Description</h2>
-This project involved cleaning and preparing a café sales dataset (downloaded from Kaggle: https://lnkd.in/gi6b-vm2) to ensure data quality and usability for analysis. The dataset contained 8 columns with missing values, invalid entries, and inconsistencies. Using SQL and SQL Server as the primary work environment, I performed comprehensive data cleaning, error correction, and feature engineering to create a reliable dataset for future analytics.
+This project focuses on performing a comprehensive financial diagnostic for a service-based naval company by analyzing data from the last three accounting periods (2021–2022, 2022–2023, and 2023–2024). The goal was to audit financial records and evaluate key liquidity indicators, such as the current ratio and quick ratio—to assess the company’s short-term solvency and financial health.
+Interactive dashboards and automated reports were developed in Power BI, using centralized financial data extracted from Google Sheets and Excel. These dashboards provide real-time insights into the company’s liquidity position, helping stakeholders understand performance trends and identify early warning signs of financial stress.
 <br />
 
+<h2>Tools & Technologies Used</h2>
 
-<h2>Languages and Utilities Used</h2>
+- <b>Power BI</b>
+- <b>Excel / Google Sheets </b> 
 
-- <b>SQL</b> 
-
-<h2>Environments Used </h2>
-
-- <b>SQL Server</b> 
-
-<h2>Program walk-through:</h2>
+<h2>Report walk-through:</h2>
 
 /*
 

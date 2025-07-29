@@ -34,6 +34,5 @@ Current Assets & Liabilities <br/>
 
 <h2>📊 Results</h2>
 
-- <b>Cleaned dataset ready for analysis (EDA, sales trends, etc.)</b> 
-- <b>Improved data quality by handling missing & invalid entries</b>
-- <b>Enhanced features for deeper insights (e.g., monthly/weekday trends)</b> 
+- <b>After significant losses in 2021 and 2022, the company achieved a strong operating profit in 2023</b> 
+- <b>The 2023 profitability indicates improved capacity to meet short-term obligations</b>
